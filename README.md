@@ -1,9 +1,69 @@
-# [![perfillander.png](https://i.postimg.cc/66dHjt82/perfillander.png)](https://postimg.cc/Th3qh8qf) Hola, mi nombre es Liner Lander 👋
-- 🌱 I'm data science junior
-- 🔭 Exploring Machine Learning
-  
+# [![perfillander.png](https://i.postimg.cc/66dHjt82/perfillander.png)](https://postimg.cc/Th3qh8qf) Hi, mi name is Liner Lander 👋
+
 [![BANNER-LINKEDIN.jpg](https://i.postimg.cc/yYdjqWzR/BANNER-LINKEDIN.jpg)](https://postimg.cc/LhcLL954)
 <!--------------------------------------------------------------------------------------------------------------------------------------->
+
+## 📊 About Me
+
+🎓¡Hola! Soy Liner Lander, un apasionado del análisis de datos con un toque de magia. 💫 Me muevo entre los mundos del **Data Science**, **Data Engineering** y **Data Analysis**, donde convierto datos complejos en soluciones sorprendentes. 🚀 Mi objetivo es optimizar procesos y llevar a las empresas a un nuevo nivel de eficiencia a través de la tecnología. ¿Listo para explorar el emocionante universo de los datos juntos? ⚙️💻
+
+---
+
+## 🧠 Skills
+
+**Languages & Tools:**
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+**Specialties:**
+
+- 📊 Data Analysis and Visualization
+- 🤖 Machine Learning and Predictive Models
+- 🛠 Data Engineering and ETL
+- 📈 Business Intelligence (Power BI, DAX, Power Query)
+- 🌐 Cloud-based Data Solutions
+- 🔍 Statistical Analysis and Hypothesis Testing
+
+---
+
+## 📈 Featured Projects
+
+### 💎 [Diamond Prediction - Mina](https://github.com/linerlander/Proyecto-Prediccion-Diamante.git)
+
+- **Descripción**: Análisis de datos de casi 54,000 diamantes para predecir su valor mediante un modelo de regresión lineal, optimizando la toma de decisiones en el mercado de joyas.
+- **Herramientas**: Python, Pandas, NumPy, Matplotlib, Scikit Learn, Figma, Excel
+- **Logros**:
+  - Exploración exhaustiva de un conjunto de datos de casi 54,000 diamantes para descubrir patrones clave.
+  - Selección de muestras representativas para garantizar la calidad del análisis.
+  - Pre-selección de variables relevantes que impactan el valor de los diamantes.
+  - Preparación de datos para un análisis efectivo, asegurando precisión y consistencia.
+  - Desarrollo de un modelo de regresión lineal para predecir el valor de cada diamante, respaldado por métricas de desempeño precisas.
+
+### 🚌 [WayBus Database Project - WayBus](https://github.com/linerlander/Proyecto-WayBus-Base-de-Datos.git)
+
+- **Descripción**: Creación una base de datos para gestión en WayBus, optimizando la información sobre clientes, vendedores y rutas. 📊
+- **Herramientas**: SQL, Power BI, Figma
+- **Logros**:
+  - Creación de una base de datos que integra datos de clientes, vendedores y ventas.
+  - Implementación de un sistema para el seguimiento de rutas y autobuses.
+  - Desarrollo de informes interactivos para el análisis de ventas.
+  - Optimización del manejo de datos para reducir errores.
+  - Mejora en la satisfacción del cliente a través de un control más efectivo.
+---
+
+## 📫 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linercullanco/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/linerlander)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liner.cullanco@gmail.com)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linerlander&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -22,45 +82,42 @@
 </p>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
-
-<p align="center">
-    <br/><br/><a href="https://www.linkedin.com/in/linercullanco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
-    <a href="https://www.instagram.com/liner_lander_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0A0A0B?logo=instagram&style=for-the-badge&logoColor=white" alt="Instagram Badge" /></a>
-</p>
-
-<div align="center">
-<div align="center">
-<a href="https://facebook.com/tiner27" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCa9-yYfka2qM9G7qSzZ1NDA" target="_blank"><img src="https://img.shields.io/badge/-youtube-d71e18?style=for-the-badge&logo=youtube&logoColor=white" style="border-radius: 30px"></a> 
-<a href="https://www.instagram.com/👽/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> 
-  
-<!--------------------------------------------------------------------------------------------------------------------------------------->
 ```mermaid
 graph TD;
-    Data-Science-->Python;
-    Data-Science-->SqlServer;
-    Data-Science-->MySql;
-    Data-Science-->Oracle;
-    Data-Science-->SqlLite3;
-    Data-Science-->Pandas;
-    Data-Science-->Numpy;
-    Data-Science-->Keras;
-    Data-Science-->Scikit-Learn;
-    Data-Science-->Power-Bi;
-    Data-Science-->JQuery;
+    A[Data Science]:::root
+    B[Python]:::tool
+    C[SQL Server]:::tool
+    D[MySQL]:::tool
+    E[Oracle]:::tool
+    F[SQLite3]:::tool
+    G[Pandas]:::library
+    H[NumPy]:::library
+    I[Keras]:::library
+    J[Scikit-Learn]:::library
+    K[Power BI]:::tool
+    L[jQuery]:::library
+
+    A --> B
+    A --> C
+    A --> D
+    A --> E
+    A --> F
+    A --> G
+    A --> H
+    A --> I
+    A --> J
+    A --> K
+    A --> L
+
+    classDef root fill:#ffccff,stroke:#333,stroke-width:2px,color:#000;
+    classDef tool fill:#bbf,stroke:#333,stroke-width:2px,color:#000;
+    classDef library fill:#cfc,stroke:#333,stroke-width:2px,color:#000;
+
+
 ```
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
-<p align="center">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="48" title="HTML"> 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="48" title="CSS">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" width="48" title="Figma">      
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="48" title="Git">     
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="48" title="Vscode">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" width="48" title="Discord">   
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="48" title="Github">    
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="48" title="Linux">    
-<p/>
+
 
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 
