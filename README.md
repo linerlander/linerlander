@@ -1,7 +1,8 @@
 # [![perfillander.png](https://i.postimg.cc/66dHjt82/perfillander.png)](https://postimg.cc/Th3qh8qf) Hola, mi nombre es Liner Lander 👋
 - 🌱 I'm data science junior
-- 🔭 Exploring Machine Learning 
-
+- 🔭 Exploring Machine Learning
+  
+[![BANNER-LINKEDIN.jpg](https://i.postimg.cc/yYdjqWzR/BANNER-LINKEDIN.jpg)](https://postimg.cc/LhcLL954)
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=linerlander&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
