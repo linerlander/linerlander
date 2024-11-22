@@ -1,6 +1,6 @@
 # [![perfillander.png](https://i.postimg.cc/66dHjt82/perfillander.png)](https://postimg.cc/Th3qh8qf) Hi, mi name is Liner Lander 👋
 
-[![BANNER-LINKEDIN.jpg](https://i.postimg.cc/G2DRhTmt/BANNER-LINKEDIN.jpg)](https://postimg.cc/phP4sT8M)
+[![BANNER-LINKEDIN.jpg](https://i.postimg.cc/QNqzhpkL/BANNER-LINKEDIN.jpg)](https://postimg.cc/MXv5YfFt)
 <!--------------------------------------------------------------------------------------------------------------------------------------->
 
 ## 📊 About Me
